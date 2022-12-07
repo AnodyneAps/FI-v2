@@ -893,11 +893,7 @@
           "show_payment_icons": false,
           "show_shopify_footer": false,
           "show_debutify_footer": false,
-          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Tanska. ALV-tunnus: 2791837-2. <\/p><p><\/p>",
-          "style__selector": "none",
-          "product_counter_text": "Pakkaamme tilauksesi:",
-          "date__selector": "none",
-          "show_product_counter": true
+          "custom_credential": "<p>P.O. Pedersens Vej 9, 8200 Aarhus N, Tanska. ALV-tunnus: 2791837-2. <\/p><p><\/p>"
         }
       },
       "dbtfy-upsell-bundles": {
