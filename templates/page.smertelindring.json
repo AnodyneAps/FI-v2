@@ -1,0 +1,258 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "f6b01b2a-2351-4013-a086-973c6fc1b430": {
+      "type": "featured-image-landing",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Smertelindring_hero.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>Kivun lievitys ja hyvä ryhti<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "9ed096d3-72e7-43be-8277-c8e378550af4": {
+      "type": "custom-html",
+      "blocks": {
+        "template--16597742682325__9ed096d3-72e7-43be-8277-c8e378550af4-16679152053b5256c5-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\"><h2>Lievittää kipua\n<\/h2>\n<p>Hyvä ryhti lievittää jännitystä ja kipua selässä, hartioissa ja niskassa.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "8f8381bd-978b-48a9-828e-2a6a8de3f4ef": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Ennaltaehkäisee loukkaantumisia<\/h2>\n<p>Auttaa sinua välttymään kivun tuomilta ongelmilta tulevaisuudessa.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "577b40cf-2d47-4c5d-9b5c-c9a84917d04a": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Rentouttaa kehoa<\/h2>\n<p>Rentouttaa kireitä lihasryhmiä ja lievittää jännitystä hartioissa, niskassa ja alaselässä.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16597742682325__9ed096d3-72e7-43be-8277-c8e378550af4-16679152053b5256c5-0",
+        "8f8381bd-978b-48a9-828e-2a6a8de3f4ef",
+        "577b40cf-2d47-4c5d-9b5c-c9a84917d04a"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-default",
+        "wrapper_size": ""
+      }
+    },
+    "46c1dfc4-8219-410b-a31e-21b90031f9fd": {
+      "type": "mission",
+      "blocks": {
+        "template--16098110144661__46c1dfc4-8219-410b-a31e-21b90031f9fd-16659933787fc5bfa2-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "",
+            "mission_description": "<br><h1>Kivunlievitys ryhtiä korjaavilla vaatteilla<\/h1><div style=\"margin-bottom:0px\"><p>Teemme kaikkemme todistaaksemme tuotteidemme tehokkuuden. Tämän vuoksi tilasimme puolueettoman tutkimuksen, johon kerättiin vastauksia 1 039 asiakkaaltamme. Tutkimuksessa todettiin, että Posture Shirt™-tuotteemme vaikuttaa positiivisesti ryhtiin ja sitä voidaan käyttää lisäapuna pään, niskan, hartioiden ja selän kivunlievitykseen.<\/p><\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16098110144661__46c1dfc4-8219-410b-a31e-21b90031f9fd-16659933787fc5bfa2-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "5b53ece3-669b-4189-95af-ce8a16b44471": {
+      "type": "featured-columns",
+      "blocks": {
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Shoulders.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "",
+            "text": "<p><strong>73 % <\/strong>kokee selkä- ja hartiakipujensa vähentyneen.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Neck.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "",
+            "text": "<p><strong>70 % <\/strong>kokee niskakipujensa vähentyneen.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Lumbar2.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "",
+            "text": "<p><strong>65 % <\/strong>kokee alaselkäkipujen voimakkuuden lievittyneen.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        },
+        "22beee5f-1c98-45a6-8607-0796241a2334": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Headache.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "",
+            "text": "<p><strong>77 %<\/strong> kokee päänsäryn voimakkuuden lievittyneen.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-0",
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-1",
+        "template--16098110144661__5b53ece3-669b-4189-95af-ce8a16b44471-1665993457acaf497c-2",
+        "22beee5f-1c98-45a6-8607-0796241a2334"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "text_align": "text-center"
+      }
+    },
+    "e694d021-181f-4f9b-97f7-04d27d4d07cc": {
+      "type": "custom-html",
+      "blocks": {
+        "template--16098110144661__e694d021-181f-4f9b-97f7-04d27d4d07cc-16659933783d1067f6-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"margin-top:-40px; margin-bottom:0px\">\n<h2>Olemme lääketieteellisesti hyväksytty<\/h2>\n<img src=\"https:\/\/i.ibb.co\/rF0hmhY\/Registrering2.png\">\n<p>Anodyne® on ainoa ryhtiä korjaavien vaatteiden jälleenmyyjä Euroopassa, jonka tuotteet ovat sekä FDA:n rekisteröimiä että CE-merkittyjä lääkinnällisinä laitteina.\nTämä tarkoittaa sitä, että tuotteemme täyttävät suuren määrän tiukkoja ympäristö-, turvallisuus-, laatu- ja tuloskriteereitä.<br>\nTämä hyväksyntä koskee Posture Shirt™-, SpinalQ Pro- ja MyLign Pro-tuotteitamme.\n<\/p>\n<\/div>\n<a class=\"btn btn--small btn-outline\" href=\"https:\/\/www.anodyne.fi\/collections\/posture-shirt\">Katso valikoima<\/a>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16098110144661__e694d021-181f-4f9b-97f7-04d27d4d07cc-16659933783d1067f6-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-default",
+        "wrapper_size": ""
+      }
+    },
+    "d1cfa87e-1910-418e-a6d3-7db9c4448614": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Kinesotape_to_posture_shirt.jpg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Kinesioteipin inspiroimana",
+        "text": "<p>Posture Shirt™-tuotteemme on ensimmäinen markkinoille saapunut ryhtiä korjaava t-paita. T-paita on kehitetty perustuen tieteellisiin ihmisfysiologisiin tutkimuksiin ja kehitykseen on saatu inspiraatiota kinesioteipin käytöstä fysioterapeuttisena kivunhoitomuotona.<\/p><p>Kinesioteippi on integroitu Posture Shirt™-tuotteesemme, jonka selkäpuolella on käytetty NeuroBands™-teknologiaamme - tukihihnat on sijoitettu kohtaan, jossa kinesioteippiä tavallisesti käytettäisiin. NeuroBands™-teknologia on välttämätön t-paidan kyvylle stimuloida parempaa ryhtiä vetämällä olkapäitä kevyesti taaksepäin. Tämä muistuttaa vartaloa pysymään suorassa ja säilyttämään hyvän ryhdin.<\/p>",
+        "button_style": "btn--primary",
+        "button_label": "Lue lisää",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "c632e1a2-8d82-4f8d-ba64-63a3cae5b09c": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/MK2.jpg",
+        "image_link": "",
+        "section_style": "section-default",
+        "text_size": "medium",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Kivun lievitys on osana DNA:tamme",
+        "text": "<p>Anodyne® perustettiin, koska toimitusjohtaja Kenneth kärsi itse kivuista useiden vuosien ajan. Lukemattomien fysioterapiahoitojen ja pitkän etsinnän jälkeen hän löysi Yhdysvalloista ryhtiä korjaavan t-paidan, joka auttoi häntä suoristamaan ryhtiään. Vaikutus oli hänelle kiistaton ja hän tiesi heti, että tämä t-paita oli myös jaettava niiden muiden tietoisuuteen, jotka kärsivät huonon ryhdin vaikutuksista. Joten vuonna 2014 hän perusti yhdessä vaimonsa Mian kanssa Anodynen® ja aloitti Posture Shirt™-tuotteen jakelun Euroopassa. Tämän jälkeen valikoimamme on kasvanut ja tarjoamme nyt laajan kirjon ryhtiä korjaavia ja kipua lievittäviä tuotteita.<\/p>",
+        "button_style": "",
+        "button_label": "Tietoa meistä",
+        "button_link": "shopify:\/\/pages\/tietoa-meista"
+      }
+    },
+    "5789ab60-b393-4c34-a8c6-99319f56d30b": {
+      "type": "mission",
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 48,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f6b01b2a-2351-4013-a086-973c6fc1b430",
+    "9ed096d3-72e7-43be-8277-c8e378550af4",
+    "46c1dfc4-8219-410b-a31e-21b90031f9fd",
+    "5b53ece3-669b-4189-95af-ce8a16b44471",
+    "e694d021-181f-4f9b-97f7-04d27d4d07cc",
+    "d1cfa87e-1910-418e-a6d3-7db9c4448614",
+    "c632e1a2-8d82-4f8d-ba64-63a3cae5b09c",
+    "5789ab60-b393-4c34-a8c6-99319f56d30b"
+  ]
+}

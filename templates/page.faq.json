@@ -1,0 +1,134 @@
+{
+  "sections": {
+    "main": {
+      "type": "dbtfy-faq-section",
+      "blocks": {
+        "57e36e78-1798-46a5-ae4a-832ccca61f0d": {
+          "type": "category_block",
+          "settings": {
+            "title": "Produkter",
+            "dbtfy_faq_category": "",
+            "dbtfy_faq_icons": ""
+          }
+        },
+        "6fe87ae9-bf18-43b2-bdb1-581ef1f521bf": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "dbtfy_faq_page_open_1": false,
+            "dbtfy_faq_page_icon_1": "",
+            "question_1": "Miten asentoa korjaavat vaatteet toimivat?",
+            "text_1": "<p>Asentoa korjaavat vaatteet on suunniteltu stimuloimaan lihasmuistia ja parantamaan tietoisuutta oman kehon ryhdistä. Ihossa on alueen mukaan vaihdellen 20 000–80 000 hermoreseptoria neliösenttimetrillä. Reseptorien avulla aistimme kosketusta, painetta ja lämpötilaa sekä reagoimme niihin. Hermopäätteet lähettävät aivoille signaaleja, jotka saavat jännittyneet lihakset rentoutumaan ja vähemmän käytetyt lihakset jäntevöitymään ja supistumaan.<br\/><br\/>Asentoa korjaavat vaatteet auttavat parantamaan jatkuvaa tietovirtaa ihon hermoreseptorien ja aivojen välillä. Sen tuloksena lihakset tekevät yhteistyötä, toimivat ja suojaavat kovalla kuormituksella olevia lihaksia. Tämä parantaa suorituskykyä, vähentää vammoja ja edistää paranemista. On tärkeää muistaa, että asentoa korjaavat vaatteet on tarkoitettu harjoittelun ja fysioterapian täydentäjiksi. Niillä yksistään ei voi hoitaa eikä ennaltaehkäistä vammoja.<\/p>",
+            "dbtfy_faq_page_open_2": false,
+            "dbtfy_faq_page_icon_2": "",
+            "question_2": "Mikä koko minun kannattaa valita?",
+            "text_2": "<p>Tutustu koko-oppaisiin asian varmistamiseksi. Jos satut olemaan kahden koon välissä, T-paidoista, housuista ja urheilurintaliiveistä kannattaa yleensä valita pienempi koko. SpinalQ- ja MyLign Pro -liiveissä puolestaan suurempi koko on tavallisesti parempi. Jos olet epävarma, ota yhteyttä meihin.<\/p>",
+            "dbtfy_faq_page_open_3": false,
+            "dbtfy_faq_page_icon_3": "",
+            "question_3": "Milloin vaatetta pitäisi käyttää?",
+            "text_3": "<p>Milloin vain! Tuotteita voi käyttää treeneissä, ostoksilla, kävelyretkellä, matkoilla, siivotessa, töissä tai muissa puuhissa. Jos sinulla on fyysisiä ongelmia, paita voi auttaa kiinnittämään huomiota ryhtiin ja sitä kautta keventää lujilla olevaan alueeseen kohdistuvaa rasitusta.<\/p>",
+            "dbtfy_faq_page_open_4": false,
+            "dbtfy_faq_page_icon_4": "",
+            "question_4": "Miten pitkään vaatetta pitäisi käyttää kerrallaan?",
+            "text_4": "<p>Kaikki ihmiset ovat yksilöitä, ja vaatteen käyttö aktivoi lihaksiasi koko ajan. Nyrkkisääntönä käytön voi aloittaa käyttämällä paitaa 30–60 minuuttia päivässä ensimmäisen viikon ajan. Kun kehon asento vähitellen muuttuu ja epäaktiiviset lihakset aktivoituvat, aikaa voi pidentää omien tuntemusten mukaan. Vähittäinen totuttelu tekee siirtymästä kohti entistä parempaa ryhtiä sujuvan, ja ryhti pysyy yllä koko ajan pidempään.<\/p>",
+            "dbtfy_faq_page_open_5": false,
+            "dbtfy_faq_page_icon_5": "",
+            "question_5": "Milloin huomaan parannusta ryhdissäni?",
+            "text_5": "<p>Ryhdin paranemisen huomaa ja näkee saman tien. Kärsivällisyyttä kuitenkin tarvitaan, sillä kestää jonkin aikaa, ennen kuin keho oppii itse pitämään yllä hyvää asentoa. Lihasmuistiin jää jälkiä pelkästä asentoa korjaavan vaatteen käytöstä ja tavallisten toimien suorittamisesta (kävely, työnteko, kuntosali-, ratsastus-, pyöräily- tai juoksuharjoittelu jne.). Liikkuminen siis tehostaa uuden asennon oppimista. Lihasmuisti muuttuu nopeimmin suorittaessasi liikkeitä, joita teet tavallisen päivän mittaan useimmin. Näiden tekijöiden vaihtelun mukaan fyysiset muutokset näkyvät ja tuntuvat selvimmin, kun vaatetta on käytetty noin 60–90 päivää.<\/p>",
+            "dbtfy_faq_page_open_6": false,
+            "dbtfy_faq_page_icon_6": "",
+            "question_6": "Voivatko kaikki käyttää tuotteita?",
+            "text_6": "<p>Jos sinulla on vakava sairaus tai pahoja fyysisiä rajoitteita, keskustele fysioterapeutin kanssa ennen vaatteen käytön aloittamista. Jos olet ollut vastikään leikkauksessa, kysy lääkäriltä tai fysioterapeutilta, onko liian varhaista alkaa työstää kehon asentoa. Yleisesti emme suosittele tuotteiden käyttöä myöskään alle 17-vuotiaille keskustelematta siitä ensin lääkärin tai fysioterapeutin kanssa.<\/p>",
+            "dbtfy_faq_page_open_7": false,
+            "dbtfy_faq_page_icon_7": "",
+            "question_7": "Miten tiukasti Alignmed-vaatteen pitäisi istua?",
+            "text_7": "<p>Anodyne® on suunniteltu aivan ihonmyötäiseksi. Sen on istuttava napakasti, mutta se ei saa tuntua epämiellyttävältä. Sinun on voitava havaita ryhtisi suoristuvan, kun käytät vaatetta. Jos et tunne sitä, vaate on todennäköisesti yhtä kokoa liian suuri. Jos paidan kangas on rullalla hartioiden etu- tai takapuolella, paita saattaa olla liian suuri. Jos valitsemasi koko on väärä, voit palauttaa tuotteen sen mukana toimitettavan vaihto-ohjeen mukaisesti (ohje löytyy tuotepakkauksen sisältä) 30 päivän kuluessa siitä, kun olet vastaanottanut tuotteen. Vastaanotettuamme tuotepalautuksesi lähetämme sinulle haluamasi kokoisen uuden tuotteen. <\/p>",
+            "dbtfy_faq_page_open_8": false,
+            "dbtfy_faq_page_icon_8": "",
+            "question_8": "Miten tuotteita pitäisi hoitaa?",
+            "text_8": "<p>Tuotteiden mahdollisimman pitkän käyttöiän varmistamiseksi suosittelemme käsinpesua. Niitä EI SAA KOSKAAN kuivata rumpukuivauksessa, koska se vahingoittaa vaatetta. <\/p>",
+            "dbtfy_faq_page_open_9": false,
+            "dbtfy_faq_page_icon_9": "",
+            "question_9": "Takaatteko, että kipuni vähenevät tai ryhtini paranee?",
+            "text_9": "<p>Koska kaikki ihmiset ovat erilaisia, emme voi taata, että saat asentoa korjaavista tuotteista toivomasi hyödyn. Ylivoimaisesti suurin osa tuotteiden käyttäjistä kuitenkin havaitsee selvää parannusta. Siksi annamme Anodyne-verkkokaupasta ostetuilla tuotteille 30 päivän täyden palautusoikeuden. Tuotteidemme palautusprosentti on alle neljä eli vain yksi käyttäjä 25:stä palauttaa ostoksensa.<br\/><br\/>Myönteisten vaikutusten todennäköisyyden lisäämiseksi tuotteita on käytettävä aina ohjeiden mukaisesti. Asentoa korjaavien vaatteiden liiallinen käyttö voi aiheuttaa sellaisia haittavaikutuksia kuin päänsärkyä, leuka- tai selkäkipua, niskan ja hartioiden arkuutta, mutta vaikutukset ovat hyvin yksilöllisiä. Siksi on tärkeää, että luet tuotteen mukana toimitettavan oppaan huolellisesti ja muistat antaa keholle aikaa totutella uuteen asentoon. Jos sinulla on kysyttävää asentoa korjaavien vaatteiden käytöstä, voit milloin tahansa ottaa yhteyttä Anodyneen.<\/p>",
+            "dbtfy_faq_page_open_10": false,
+            "dbtfy_faq_page_icon_10": "",
+            "question_10": "Miten pitkään paitani kestää käytössä?",
+            "text_10": "<p>Käyttöikä määräytyy sen mukaan, miten käsittelet paitaa sekä kuinka usein ja kauan käytät sitä. Muiden vaatteiden tavoin meidänkin vaatteisiimme tulee kulumisen merkkejä käyttömäärän mukaan. Kestävyyden kannalta erityisen tärkeää on se, että paitaa EI kuivata kuivausrummussa. Tuotteiden mahdollisimman pitkän käyttöiän takaamiseksi suosittelemme pesemään ne käsin.<\/p>"
+          }
+        },
+        "babc1ce4-e723-4514-aea2-17d4c348c7f6": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "dbtfy_faq_page_open_1": false,
+            "dbtfy_faq_page_icon_1": "",
+            "question_1": "Miten paita eroaa tukiliivistä?",
+            "text_1": "<p>Asentoa korjaava vaate on eri asia kuin tukiliivi tai selkätuki! Asentoa korjaava vaate muuttaa ryhtiäsi auttamalla kehoasi tukemaan itse itseään ja ottamalla käyttöön heikkouden, epätasapainon tai toimintahäiriön vuoksi heikkoja epäaktiivisia lihaksia. Kehoa ei tueta kiinteästi kuten kaiken liikkeen estäviä kaaria tai tukia käytettäessä. Niillä rajoitetaan kehon liikkuvuutta, mikä heikentää lihaksia ajan mittaan. Samalla keho tulee riippuvaiseksi ulkoisesta mekaanisesta tuesta. Anodyne-tuotteet stimuloivat lihaksia, eivät estä niiden liikkumista.<\/p>",
+            "dbtfy_faq_page_open_2": false,
+            "dbtfy_faq_page_icon_2": "",
+            "question_2": "Millaiset palautusehdot teillä on?",
+            "text_2": "<p>Toivomme aina, että olisit täysin tyytyväinen hankintaasi. Takaamme, ettei vastaanottamissasi tuotteissa ole valmistusvirheitä. Jos sellaisia kuitenkin esiintyy, tuotteen voi palauttaa meille välittömästi, ja me korvaamme tuotteen ostohinnan kokonaisuudessaan tai vaihdamme tuotteen uuteen. Palautusoikeus ei koske tuotteiden normaalia kulumista tai virheellisestä käytöstä aiheutuneita vaurioita. Tutustu myös toimitusehtoihimme.<br\/><br\/>Tarjoamme sinulle myös 30 päivän täyden palautusoikeuden siltä varalta, ettet ole tyytyväinen tuotteeseen. Tuote on palautettava Anodynelle® hyväkuntoisena, eikä se saa haista voimakkaasti esim. hajusteelta tai savulta. Tuotteen mukana on oltava alkuperäinen tuotepakkaus, ja sen pesu- ja tuotemerkintöjen on oltava vaurioitumattomia. Tuotteen voi pestä hajustamatonta pesuainetta käyttäen palautusoikeuden 30-päiväisen voimassaolon aikana, mutta jos tuote on kuivattu kuivausrummussa ennen sen palauttamista, voimme kieltäytyä palauttamasta tuotteen ostohinnan sinulle, sillä rumpukuivaus tuhoaa tuotteen.<\/p>",
+            "dbtfy_faq_page_open_3": false,
+            "dbtfy_faq_page_icon_3": "",
+            "question_3": "",
+            "text_3": "",
+            "dbtfy_faq_page_open_4": false,
+            "dbtfy_faq_page_icon_4": "",
+            "question_4": "",
+            "text_4": "",
+            "dbtfy_faq_page_open_5": false,
+            "dbtfy_faq_page_icon_5": "",
+            "question_5": "",
+            "text_5": "",
+            "dbtfy_faq_page_open_6": false,
+            "dbtfy_faq_page_icon_6": "",
+            "question_6": "",
+            "text_6": "",
+            "dbtfy_faq_page_open_7": false,
+            "dbtfy_faq_page_icon_7": "",
+            "question_7": "",
+            "text_7": "",
+            "dbtfy_faq_page_open_8": false,
+            "dbtfy_faq_page_icon_8": "",
+            "question_8": "",
+            "text_8": "",
+            "dbtfy_faq_page_open_9": false,
+            "dbtfy_faq_page_icon_9": "",
+            "question_9": "",
+            "text_9": "",
+            "dbtfy_faq_page_open_10": false,
+            "dbtfy_faq_page_icon_10": "",
+            "question_10": "",
+            "text_10": ""
+          }
+        }
+      },
+      "block_order": [
+        "57e36e78-1798-46a5-ae4a-832ccca61f0d",
+        "6fe87ae9-bf18-43b2-bdb1-581ef1f521bf",
+        "babc1ce4-e723-4514-aea2-17d4c348c7f6"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-border",
+        "dbtfy_faq_searchbox": true,
+        "dbtfy_faq_search_placeholder": "Hae kysymyksiä...",
+        "text_alignment": "text-left",
+        "text_alignment_mobile": "text-left",
+        "dbtfy_faq_bannerbox": true,
+        "dbtfy_faq_banner_icon": "live_help",
+        "dbtfy_faq_banner_text": "Etkö löytänyt vastausta kysymykseesi?",
+        "dbtfy_faq_banner_subtitle": "Anodynella olemme aina valmiina auttamaan ennen, oston aikana sekä oston jälkeen.",
+        "dbtfy_faq_btn": "Yhteystiedot",
+        "dbtfy_faq_link": "shopify:\/\/pages\/yhteystiedot"
+      }
+    }
+  },
+  "order": [
+    "main"
+  ]
+}

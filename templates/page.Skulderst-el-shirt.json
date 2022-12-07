@@ -1,0 +1,77 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "1663745743b81d3ed3": {
+      "type": "custom-html",
+      "blocks": {
+        "16637457432019bd32-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"margin-bottom:-60px\">\n<h1>Posture Shirt tai Hartiatuki?<\/h1>\n<h4>Lue lisää näiden kahden tuotteen eroista ja yhtäläisyyksistä täältä.<\/h4>\n<\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "16637457432019bd32-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "16637445009e5e2911": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Posture_shirt.jpg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Miksi kannattaa valita Posture Shirt™?",
+        "text": "<p>Valitse Posture Shirt™, jos haluat erittäin mukavan tuotteen, joka antaa tukea koko päiväksi.<\/p><p>• Parantaa ryhtiä<br\/>• Lisää ryhtitietoisuutta<br\/>• Aktivoi lihaksistoa<br\/>• Tarjoaa vapaan liikkuvuuden<br\/>• Todistettu vaikutus kipujen ja jännitysten lievittämiseen<br\/><\/p><p>Voidaan käyttää <strong>koko päivän ajan<\/strong> (vaiheittainen totuttelu):<br\/><\/p><p>• Istuma-asennossa<br\/>• Seisoma-asennossa<br\/>• Fyysisen aktiivisuuden aikana<\/p>",
+        "button_style": "",
+        "button_label": "Katso valikoima",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "166374504046831ffc": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Brace.jpg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Miksi kannattaa valita hartiatuki?",
+        "text": "<p>Valitse hartiatuki, jos haluat tuotteen, jota voit käyttää lyhyempiä jaksoja päivän aikana.<\/p><p>• Parantaa ryhtiä<br\/>• Vakauttaa ja poistaa kuormitusta<br\/>• Voi lievittää kipuja ja jännityksiä<\/p><p>Voidaan käyttää <strong>30-60 minuuttia<\/strong> tarpeen mukaan:<\/p><p>• Istuma-asennossa<br\/>• Seisoma-asennossa <\/p>",
+        "button_style": "",
+        "button_label": "Katso valikoima",
+        "button_link": "shopify:\/\/collections\/selkatuki"
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1663745743b81d3ed3",
+    "16637445009e5e2911",
+    "166374504046831ffc"
+  ]
+}

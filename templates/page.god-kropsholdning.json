@@ -1,0 +1,239 @@
+{
+  "sections": {
+    "main": {
+      "type": "page",
+      "disabled": true,
+      "settings": {
+      }
+    },
+    "f9569610-3130-480c-b86d-114ac8c0d41f": {
+      "type": "featured-image-landing",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": true,
+        "image": "shopify:\/\/shop_images\/Artboard_2.jpg",
+        "section_style": "section-blank",
+        "wrapper__height": 360,
+        "image_title": "<p><strong>HYVÄ RYHTI<\/strong><\/p>",
+        "image_subtitle": "",
+        "image_btntext": "",
+        "image_link": "",
+        "show_on_image_scrolldown": false
+      }
+    },
+    "0d2fda4b-857b-42be-b468-c0935b87803f": {
+      "type": "mission",
+      "blocks": {
+        "template--16606488559829__0d2fda4b-857b-42be-b468-c0935b87803f-166792290902cf6af8-0": {
+          "type": "html",
+          "settings": {
+            "mission_title": "",
+            "mission_description": "<br><h1>Hyvän ryhdin tarjoamat hyödyt<\/h1><div style=\"padding-left:20px;padding-right:20px\">\n<p>Kuten useimmat tietävätkin, hyvä ryhti on tärkeää niin istuessamme, seisoessamme kuin liikuessammekin. Mutta miksi? On monia syitä, joidenka vuoksi ryhtiin tulisi kiinnittää huomiota. Tässä olemme listanneet hyvän ryhdin tarjoamat kuusi tärkeintä fyysistä ja henkistä hyötyä.<\/p>\n<\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center",
+            "btn_text": "",
+            "btn_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16606488559829__0d2fda4b-857b-42be-b468-c0935b87803f-166792290902cf6af8-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "margin__bottom": 0,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "20acbdb2-531e-4916-aeb1-d4fccbca0f15": {
+      "type": "custom-html",
+      "blocks": {
+        "template--16606488559829__20acbdb2-531e-4916-aeb1-d4fccbca0f15-16679230569682d683-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/TPGrXrV\/Ease.png\" alt=\"Ease\" style=\"max-width:50px;width:100%\"><h2>Lievittää kipua\n<\/h2>\n<p>Hyvä ryhti lievittää jännitystä ja kipua selässä, hartioissa ja niskassa.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "60232a9f-2595-4b02-99b9-7d4c598a7325": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/t8q4kDW\/Prevents.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Ennaltaehkäisee loukkaantumisia<\/h2>\n<p>Auttaa sinua välttymään kivun tuomilta ongelmilta tulevaisuudessa.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "c2e62f06-b5c9-45d6-8337-97eb0ac81238": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BCR1Fg3\/Alleviate.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Rentouttaa kehoa<\/h2>\n<p>Rentouttaa kireitä lihasryhmiä ja lievittää jännitystä hartioissa, niskassa ja alaselässä.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16606488559829__20acbdb2-531e-4916-aeb1-d4fccbca0f15-16679230569682d683-0",
+        "60232a9f-2595-4b02-99b9-7d4c598a7325",
+        "c2e62f06-b5c9-45d6-8337-97eb0ac81238"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "38f1ce2d-21ad-4f0f-9fa0-5b3cac0c5876": {
+      "type": "custom-html",
+      "blocks": {
+        "template--16606488559829__38f1ce2d-21ad-4f0f-9fa0-5b3cac0c5876-1667923115e7b3a0ee-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/bLg6Mnn\/Smile.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Parantaa mielialaa<\/h2>\n<p>Hyvä ryhti parantaa mielialaasi ja tekee sinusta energisemmän jokapäiväisessä elämässäsi.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "e805fa4b-271e-41af-91e4-7667190fd8a9": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/KV56kZB\/Radiance.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Parantaa ulkonäköä<\/h2>\n<p>Hyvä ryhti parantaa ulkonäköämme ja jättää tavatessa hyvän ensivaikutelman.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        },
+        "a6abd885-9993-403a-82f6-0fa4a1c1f7ca": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"padding-left:40px;padding-right:40px\">\n<img src=\"https:\/\/i.ibb.co\/BsTXCGL\/Confidence.png\" alt=\"Ease\" border=\"0\" style=\"max-width:50px;width:100%\"><h2>Lisää itseluottamusta<\/h2>\n<p>Hyvä ryhti lisää meidän itseluottamustamme.<\/p>\n<\/div>",
+            "column_width": 4,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16606488559829__38f1ce2d-21ad-4f0f-9fa0-5b3cac0c5876-1667923115e7b3a0ee-0",
+        "e805fa4b-271e-41af-91e4-7667190fd8a9",
+        "a6abd885-9993-403a-82f6-0fa4a1c1f7ca"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "88612944-bee7-401e-bfb0-d81bb58d7a88": {
+      "type": "featured-columns",
+      "blocks": {
+        "template--16606488559829__88612944-bee7-401e-bfb0-d81bb58d7a88-166792320519fd1dc0-0": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Traening.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Liikunta ja voimaharjoittelu",
+            "text": "<p>Syinä huonoon ryhtiin ovat usein jäykät ja heikot lihakset, sillä ne eivät pysty pitämään ylävartaloa hyvässä asennossa.<br\/>Tämän vuoksi venyttely- ja voimaharjoitukset ovat hyvä tapa kehittää ryhtiä. Jos tarvitset helppoja arkitreenejä, kannattaa tutustua äskettäin tuottamaamme videoon, jossa käsitellään tähän asiaan liittyviä tehokkaita harjoitteita yhteistyössä kiropraktikko Michael Justadin kanssa.<\/p>",
+            "button_style": "btn--primary",
+            "button_label": "Katso video",
+            "button_link": "shopify:\/\/pages\/venyttelyharjoitukset"
+          }
+        },
+        "template--16606488559829__88612944-bee7-401e-bfb0-d81bb58d7a88-166792320519fd1dc0-1": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Image_woman_and_man_0003_720x480_560e4050-d3b3-4d8e-9414-7ffada48d7d9.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Ryhtiä korjaavat vaatteet",
+            "text": "<p>Monilla on vaikeuksia muistaa ylläpitää hyvää ryhtiä arjessa, mikä on tehnyt ryhtiä korjaavista vaatteista erittäin suositun ratkaisun. Myydyin tuotteemme on Posture Shirt™, jossa on kevyesti kiristävä olkahihna, joka muistuttaa sinua korjaamaan ryhtiäsi, kun olkapääsi alkavat löystyä. Posture Shirt-tuotteen joustavuus tekee siitä tehokkaan ja mukavan käyttää - sekä istuessa että fyysisissä aktiviteeteissa.<\/p>",
+            "button_style": "",
+            "button_label": "Tutustu tuotevalikoimaan",
+            "button_link": "shopify:\/\/collections\/posture-shirt"
+          }
+        },
+        "template--16606488559829__88612944-bee7-401e-bfb0-d81bb58d7a88-166792320519fd1dc0-2": {
+          "type": "text_block",
+          "settings": {
+            "title": "",
+            "image": "shopify:\/\/shop_images\/Mand_i_sofa_med_skulderstotte_720x480_71a86b82-0b91-4326-8722-7847b8065f7d.jpg",
+            "image_link": "",
+            "icon": "",
+            "heading_text": "Muut ryhtiä korjaavat tuotteet",
+            "text": "<p>Posture Shirt™-tuotteemme lisäksi myymme myös muita ryhtiä korjaavia tuotteita, kuten olkahihnoja, lannevöitä ja selkätyynyjä. Nämä tuotteet soveltuvat ensisijaisesti tilanteisiin istuessa tai seisoessa, joissa kehon liike on rajoitettua - esimerkiksi työpöydällä ja sohvalla istumiseen tai ruoanlaittoon.<\/p>",
+            "button_style": "",
+            "button_label": "Tutustu tuotevalikoimaan",
+            "button_link": "shopify:\/\/collections\/selkatuki"
+          }
+        }
+      },
+      "block_order": [
+        "template--16606488559829__88612944-bee7-401e-bfb0-d81bb58d7a88-166792320519fd1dc0-0",
+        "template--16606488559829__88612944-bee7-401e-bfb0-d81bb58d7a88-166792320519fd1dc0-1",
+        "template--16606488559829__88612944-bee7-401e-bfb0-d81bb58d7a88-166792320519fd1dc0-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Miten kehittää ryhtiä?",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "text_align": ""
+      }
+    },
+    "8656dc5f-9df8-427d-9438-8bb60e49c269": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Bestsellerit",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "home_featured_products": "posture-shirt",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    }
+  },
+  "order": [
+    "main",
+    "f9569610-3130-480c-b86d-114ac8c0d41f",
+    "0d2fda4b-857b-42be-b468-c0935b87803f",
+    "20acbdb2-531e-4916-aeb1-d4fccbca0f15",
+    "38f1ce2d-21ad-4f0f-9fa0-5b3cac0c5876",
+    "88612944-bee7-401e-bfb0-d81bb58d7a88",
+    "8656dc5f-9df8-427d-9438-8bb60e49c269"
+  ]
+}

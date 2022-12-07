@@ -1,0 +1,185 @@
+{
+  "sections": {
+    "1663745735c524cd6e": {
+      "type": "custom-html",
+      "blocks": {
+        "166374573542577662-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"margin:-40px 20px -60px 20px\">\n<h1>Harjoitukset selän ja niskan venyttelyyn<\/h1>\n<p>Kärsitkö niskakivuista tai kireydestä hartioissa ja selässä? Yhteistyössä kiropraktikon, klinikan omistajan ja JustHealth-yhtiössä toimivan Michael Justadin kanssa olemme koonneet alta löytyvään videoon 5 helppoa harjoitusta, jotka voit tehdä toimistolla tai kotonasi. Harjoitteiden suorittaminen kestää vain viisi minuuttia.<\/p>\n<\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "166374573542577662-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1663745903f051ca53": {
+      "type": "featured-video",
+      "blocks": {
+        "16637459035ef84327-0": {
+          "type": "video",
+          "settings": {
+            "video_cover_image": "shopify:\/\/shop_images\/Cover_video.jpg",
+            "title": "",
+            "video_url": "https:\/\/youtu.be\/WxbtAi7VKp8",
+            "animated_button": true
+          }
+        }
+      },
+      "block_order": [
+        "16637459035ef84327-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank"
+      }
+    },
+    "16637487828de14f44": {
+      "type": "featured-html",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Working_posture_1296x1296_16a5233d-a914-4da5-bc49-6d65f8981616.jpg",
+        "image_link": "",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Optimoi ryhtisi istuessasi toimistolla",
+        "html_text": "Jos kärsit niska-, hartia- tai selkäkireydestä, koska teet pääosin istumatyötä, niin tulevat nämä viisi rentoutumisharjoitusta auttamaan sinua lievittämään ja ehkäisemään lihasjännityksiä jokapäiväisessä elämässäsi. Voi myös olla hyödyksi tarkastella tapoja kehittää asentoasi istuessasi työpöydän ääressä.<br><br><strong>Noudata alla olevia vinkkejä korjataksesi ryhtiäsi istuessasi työpöytäsi ääressä:<\/strong><br><br>• Istu selkä suorana, työnnä lantiota sisään ja vedä hartioita taaksepäin. Sivulta katsottuna selkärangan tulisi olla S-kirjaimen muotoisessa kaaressa.<br>• Jalkojen ja polvien tulisi olla vähintään 90 asteen kulmassa.<br>• Molempien kyynärpäiden tulee levätä pöytää tai käsinojaa vasten oikeassa kulmassa vartaloon nähden, jotta hartiat voivat rentoutua.<br>• Tietokoneen näytön tulisi olla silmien tasolla.<br>• Vaihda työasentoasi usein ja vuorottele seisoma- ja istuma-asennon välillä.",
+        "button_style": "btn--primary",
+        "button_label": "",
+        "button_link": ""
+      }
+    },
+    "1663746941a7432fff": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Bestsellerit",
+        "subtitle": "",
+        "section_style": "section-default",
+        "home_featured_products": "posture-shirt",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "",
+        "button_style": "btn-outline-primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": false,
+        "autoplayspeed": 5
+      }
+    },
+    "16637488008808e289": {
+      "type": "custom-html",
+      "blocks": {
+        "1663748800958b12bf-0": {
+          "type": "html",
+          "settings": {
+            "title": "",
+            "code": "<div style=\"margin-top:-30px\">\n<h2>Ryhtiä korjaavat tuotteet toimistotyöhön<\/h2>\n<p>Tarjoamme Anodynellä® tuotteita ryhdin korjaamiseen, rentoutumiseen ja yleiseen kehon terveyden ylläpitämiseen. Tuotteidemme tavoitteena on tukea vartaloa ja muistuttaa pitää yllä hyvää ryhtiä arjessa sekä lievittää kipua ja jännitystä elämänlaadun parantamiseksi.<\/p>\n<p><\/p>\n<\/div>",
+            "column_width": 12,
+            "column_width_mobile": 12,
+            "text_alignment": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1663748800958b12bf-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": true,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "16637492022b0e0201": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Lumbar.jpg",
+        "image_link": "shopify:\/\/collections\/selkatuki",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Lievitä jännitystä selässä ja alaselässä Olkahihnojen tai Lannevyön avulla",
+        "text": "<p>Selkämme on erityisen haavoittuva istuessamme paljon, minkä vuoksi voi olla hyödyksi pyrkiä lievittämään selkä- ja hartiarasitusta työpäivän aikana. Anodyne® tarjoaa valikoiman selkää tukevia tuotteita, mukaan lukien olkatuet ja lannevyön. Molemmat tuotteet ovat ihanteellisia työkaluja kivun ja jännityksen ennaltaehkäisyyn sekä hoitoon, ja ne toimivat apuna tukemassa sekä lievittämässä kireyttä lihaksistossa akuuteissa tilanteissa.<\/p><p>Olkahinat auttavat korjaamaan ryhtiä niin kauan kuin niitä käytetään. Niitä voidaan käyttää niskan, hartioiden ja yläselän kipuihin sekä jännitysten lievitykseen. Lapaluut ohjataan takaisin luonnollisille paikoilleen, mikä vähentää painetta hartioissa ja yläselässä. Lannevyö on ihanteellinen, jos kärsit alaselän kivusta tai  jännityksestä. Lannevyö lievittää painetta lihaksissa ja auttaa korjaamaan ryhtiä lannerangan alueella.<\/p>",
+        "button_style": "",
+        "button_label": "Tutustu tuotevalikoimaan",
+        "button_link": "shopify:\/\/collections\/selkatuki"
+      }
+    },
+    "16637496063027e35a": {
+      "type": "featured-row",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Posture_shirt.jpg",
+        "image_link": "shopify:\/\/collections\/posture-shirt",
+        "section_style": "section-default",
+        "text_size": "medium",
+        "image_alignement": "right",
+        "text_alignment": "",
+        "title": "Ennaltaehkäise asentosi luomaa kireyttä ryhtiä korjaavalla paidalla",
+        "text": "<p>Hyvä ryhti istuessa voi useimmissa tapauksissa ennaltaehkäistä niskan ja selän kipuja tai jännityksiä. Voi kuitenkin olla vaikeaa muistaa jatkuvasti pitää yllä hyvää ryhtiä. Jos tarvitset apua muistamiseen, Posture Shirt™-tuotteemme on ihanteellinen valinta. Selälle integroidut tukinauhat, eli NeuroBands™-tuotemerkkimme, auttaa sinua sinua vetämällä kevyesti olkapäistäsi, jolloin muistat pitää ne asianmukaisessa asennossa. Tällä tavoin Posture Shirt™-tuotteemme toimii sinulle muistutuksena, jonka avulla pidät selkäsi suorana koko päivän ajan ja teet hyvän ryhdin ylläpitämisestä tavan.<\/p>",
+        "button_style": "",
+        "button_label": "Tutustu tuotevalikoimaan",
+        "button_link": "shopify:\/\/collections\/posture-shirt"
+      }
+    },
+    "16637498776cfac0c7": {
+      "type": "featured-row",
+      "disabled": true,
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "image": "shopify:\/\/shop_images\/Pillow.jpg",
+        "image_link": "shopify:\/\/collections\/andre-produkter",
+        "section_style": "section-blank",
+        "text_size": "medium",
+        "image_alignement": "left",
+        "text_alignment": "",
+        "title": "Optimér siddestillingen med ergonomiske produkter",
+        "text": "<p>Vi forhandler også et udvalg af produkter, der fremmer ergonomien og arbejdsstillingen ved skrivebordet, heriblandt vores <em>rygpude<\/em> og støttesædet <em>BackJoy Posture+<\/em>. Begge produkter er med til at forebygge smerter og spændinger i lænden, som nemt kan opstå, når man har et primært stillesiddende arbejde.<\/p><p><br\/>Vores <a href=\"https:\/\/codebeautify.org\/products\/ergonomisk-rygpude\/\"><span style=\"text-decoration:underline\">Rygpude<\/span><\/a> giver lænden god støtte, mindsker presset på de nedre rygmuskler og får det naturlige lændesvaj frem. <a href=\"https:\/\/codebeautify.org\/products\/backjoy-posture\"><span style=\"text-decoration:underline\">BackJoy Posture+<\/span><\/a> fremmer også en korrekt siddestilling, idet bækkenet skubbes frem, og rygsøjlen placeres i sin ideelle S-kurve. Brug produkterne ved skrivebordet, spisebordet, i sofaen, i bilen, og hvor du ellers har brug for ekstra lændestøtte.<\/p>",
+        "button_style": "",
+        "button_label": "Se udvalg",
+        "button_link": "shopify:\/\/collections\/andre-produkter"
+      }
+    }
+  },
+  "order": [
+    "1663745735c524cd6e",
+    "1663745903f051ca53",
+    "16637487828de14f44",
+    "1663746941a7432fff",
+    "16637488008808e289",
+    "16637492022b0e0201",
+    "16637496063027e35a",
+    "16637498776cfac0c7"
+  ]
+}

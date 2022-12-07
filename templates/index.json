@@ -1,0 +1,443 @@
+{
+  "sections": {
+    "16565958709e259b85": {
+      "type": "hero-video",
+      "disabled": true,
+      "settings": {
+        "page_width": "full_width",
+        "height": "medium",
+        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+        "show_overlay": true,
+        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+        "image_position": "center center",
+        "video_title": "<span class=\"first\">Tervetuloa<\/span>",
+        "text_size": "medium",
+        "text_description": "<p><strong>Vaatteet Anodyneltä Suunniteltu lisäämään ryhtitietoisuutta ja sen kautta antamaan lisää fokusta ryhtiin arjessa.<\/strong><\/p>",
+        "text_description_size": "medium",
+        "button_label": "Naiset",
+        "button_link": "shopify:\/\/collections\/naiset",
+        "second_button_label": "Miehet",
+        "second_button_link": "shopify:\/\/collections\/miehet",
+        "show_scrolldown": true,
+        "show_emark": false,
+        "bottom_counter_text": "Lähetämme tilauksesi:",
+        "show_bottom_counter": true
+      }
+    },
+    "ebc62c8c-3c83-475f-a9c0-ca9af32926c6": {
+      "type": "hero-blackdays",
+      "settings": {
+        "style__selector": "none",
+        "page_width": "full_width",
+        "height": "medium",
+        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+        "show_overlay": true,
+        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+        "image_position": "center center",
+        "video_title": "<span class=\"first\">Anodyne®<\/span>",
+        "svg_selector": "none",
+        "text_size": "medium",
+        "text_description": "<p><strong>Vaatteet Anodyneltä Suunniteltu lisäämään ryhtitietoisuutta ja sen kautta antamaan lisää fokusta ryhtiin arjessa.<\/strong><\/p>",
+        "text_description_size": "medium",
+        "button_label": "Naiset",
+        "button_link": "shopify:\/\/collections\/naiset",
+        "second_button_label": "Miehet",
+        "second_button_link": "shopify:\/\/collections\/miehet",
+        "show_scrolldown": true,
+        "show_emark": false,
+        "bottom_counter_text": "Pakkaamme tilauksesi:",
+        "date__selector": "none",
+        "show_bottom_counter": true
+      }
+    },
+    "1656942069989ae2c9": {
+      "type": "feature-services",
+      "blocks": {
+        "1656942069c276e07d-0": {
+          "type": "service",
+          "settings": {
+            "title": "Ilmainen toimitus yli 49€ ostoksille",
+            "description": "",
+            "icon": "shopify:\/\/shop_images\/Truck_200px.png",
+            "uspLinkUrl": "shopify:\/\/pages\/toimitus-ja-merenkulku"
+          }
+        },
+        "1656942069c276e07d-1": {
+          "type": "service",
+          "settings": {
+            "title": "Ilmainen paluukuljetus",
+            "description": "",
+            "icon": "shopify:\/\/shop_images\/Returns_200px.png",
+            "uspLinkUrl": "shopify:\/\/pages\/toimitus-ja-merenkulku"
+          }
+        },
+        "342df7ed-a5e0-495e-b2aa-88ec2359c324": {
+          "type": "service",
+          "settings": {
+            "title": "Yli 500 000 myytyä tuotetta",
+            "description": "",
+            "icon": "shopify:\/\/shop_images\/Smile2_200px.png",
+            "uspLinkUrl": "shopify:\/\/pages\/tietoa-meista"
+          }
+        },
+        "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70": {
+          "type": "service",
+          "settings": {
+            "title": "30 päivän täysi palautusoikeus",
+            "description": "",
+            "icon": "shopify:\/\/shop_images\/Checkmark_200px.png",
+            "uspLinkUrl": "shopify:\/\/pages\/toimitus-ja-merenkulku"
+          }
+        }
+      },
+      "block_order": [
+        "1656942069c276e07d-0",
+        "1656942069c276e07d-1",
+        "342df7ed-a5e0-495e-b2aa-88ec2359c324",
+        "bd4294cd-ff2b-4e34-9b3f-83b23dd32f70"
+      ],
+      "settings": {
+        "title": ""
+      }
+    },
+    "26b60e6d-b80c-4cac-9186-bc32afaf5241": {
+      "type": "hero-blackdays",
+      "disabled": true,
+      "settings": {
+        "style__selector": "black",
+        "page_width": "full_width",
+        "height": "medium",
+        "newvideo_link": "https:\/\/cdn.shopify.com\/s\/files\/1\/0596\/7842\/5237\/files\/Cover.mp4?v=1637326801",
+        "show_overlay": true,
+        "image": "shopify:\/\/shop_images\/Skaermbillede_2021-11-18_kl._14.03.24.png",
+        "image_position": "center center",
+        "video_title": "How To Add A Video Background On Shopify",
+        "svg_selector": "blackdays",
+        "text_size": "medium",
+        "text_description": "<p>Brug denne tekst til XXX at dele oplysninger om dit brand med dine.<\/p>",
+        "text_description_size": "medium",
+        "button_label": "",
+        "button_link": "",
+        "second_button_label": "",
+        "second_button_link": "",
+        "show_scrolldown": false,
+        "show_emark": false,
+        "bottom_counter_text": "We send your order in",
+        "date__selector": "none",
+        "show_bottom_counter": true
+      }
+    },
+    "1654180360d9664fc4": {
+      "type": "featured-collections",
+      "blocks": {
+        "1654180360b14d67ac-2": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "posture-shirt",
+            "btn__shopnow": "Shop"
+          }
+        },
+        "1654180360b14d67ac-0": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "selkatuki",
+            "btn__shopnow": "Shop"
+          }
+        },
+        "1654180360b14d67ac-1": {
+          "type": "collection",
+          "settings": {
+            "title": "",
+            "collection": "muut-tuotteet",
+            "btn__shopnow": "Shop"
+          }
+        }
+      },
+      "block_order": [
+        "1654180360b14d67ac-2",
+        "1654180360b14d67ac-0",
+        "1654180360b14d67ac-1"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "section_height": "medium",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_link": "shopify:\/\/collections",
+        "button_style": "btn--primary",
+        "slider_featured_collections": false,
+        "arrows": false,
+        "dots": false
+      }
+    },
+    "1657200190f72ca1c0": {
+      "type": "profile-text",
+      "blocks": {
+        "1657200190267fd417-0": {
+          "type": "Profile-Text",
+          "settings": {
+            "title": "Miksi valita Anodynen asentoa korjaavia vaatteita?",
+            "code": "<p>Anodynen<a href=\"https:\/\/anodyne-fi.myshopify.com\/collections\/kaikki-tuotteet\"><span style=\"text-decoration:underline\">asentoa korjaavilla vaatteilla<\/span><\/a>voit helposti ja vaivattomasti saada paremman ryhdin ja vähentää kipuja ja jännityksiä niskassa, hartioissa ja selässä. Anodynen asentoa korjaavat vaatteet auttavat parantamaan tietoisuutta ryhdistä, ja niitä voidaan käyttää istuessasi toimistossa, matkoilla, aktiivisessa työssä tai urheilun aikana. Anodynen on eurooppalainen asentoa korjaavien vaatteiden valmistaja ja jakelija, joka käyttää amerikkalaisen AlignMedin kehittämää tekniikkaa. Se on maailman ainoa Yhdysvaltain elintarvike- ja lääkeviraston (FDA) rekisteröimä asentoa korjaavien vaatteiden valmistaja. Anodynen asentoa korjaavat vaatteet ovat ainoina Euroopassa joka on saanut sekä FDA-rekisteröinnin että MDR\/CE-merkinnän (Luokka I), mikä on takuusi sille, että tuotteemme täyttävät lääkinnällisille laitteille asetetut vaatimukset.<\/p>",
+            "text_alignment": "text-center",
+            "status1_number": "+100.000",
+            "status1_label": "Tyytyväistä asiakasta",
+            "status1_link": "shopify:\/\/collections\/alle-produkte",
+            "status2_number": "+500.000",
+            "status2_label": "Maailmanlaajuisesti myytyä tuotetta",
+            "status2_link": "shopify:\/\/collections\/alle-produkte",
+            "status3_number": "+8",
+            "status3_label": "Vuoden kokemus",
+            "status3_link": "shopify:\/\/collections\/alle-produkte",
+            "status4_number": "+80",
+            "status4_label": "Tuotetta saatavilla",
+            "status4_link": "shopify:\/\/collections\/alle-produkte",
+            "vendor_image_position": "center center",
+            "vendor_text": ""
+          }
+        }
+      },
+      "block_order": [
+        "1657200190267fd417-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "padding_section": false,
+        "section_style": "section-blank",
+        "wrapper_size": ""
+      }
+    },
+    "1659512569f1cf3047": {
+      "type": "quotes",
+      "blocks": {
+        "1659512569137a920e-0": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+            "icon": "format_quote",
+            "quote": "<p><em>Nopeasti tuli ja on todella hyvälaatuinen ja jopa nätti ja toimii muistuttamalla, jos ryhti alkaa romahtaa.<\/em><\/p>",
+            "author": "Alia K.",
+            "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+            "quotes_link": "https:\/\/fi.trustpilot.com\/review\/anodyne.fi?stars=5",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        },
+        "1659512569137a920e-1": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+            "icon": "format_quote",
+            "quote": "<p><em>Anodynen tuotteet ovat loistavaa ja taattua laatua. Itse en ainakaan koskaan tule hankkimaan tuotteita muualta.<\/em><\/p>",
+            "author": "Irene L.",
+            "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+            "quotes_link": "https:\/\/fi.trustpilot.com\/review\/anodyne.fi?stars=5",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        },
+        "1659512569137a920e-2": {
+          "type": "quote",
+          "settings": {
+            "title": "",
+            "quote_image": "shopify:\/\/shop_images\/Quotationmarks_a74885ab-785d-495b-b959-f06af41f538a.png",
+            "icon": "format_quote",
+            "quote": "<p><em>Kiitos,tuote oli kuvatun mukainen. Olemme jo muutaman kerran käyttäneet ,eivät tunnu liian raskailta käyttää.<\/em><\/p>",
+            "author": "Seija",
+            "stars_pic": "shopify:\/\/shop_images\/download_128x32_493ac8f1-79f7-44b2-a072-cb9126483de1.png",
+            "quotes_link": "https:\/\/fi.trustpilot.com\/review\/anodyne.fi?stars=5",
+            "text_alignment": "text-center",
+            "text_alignment_mobile": "text-center"
+          }
+        }
+      },
+      "block_order": [
+        "1659512569137a920e-0",
+        "1659512569137a920e-1",
+        "1659512569137a920e-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "trustpilot_imagetitle": "shopify:\/\/shop_images\/Trustpilot_logo.png",
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "quote_width": "60",
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 5
+      }
+    },
+    "1659512748326b5967": {
+      "type": "featured-products",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Suosittuja tuotteita",
+        "subtitle": "",
+        "section_style": "section-blank",
+        "style__selector": "none",
+        "home_featured_products": "kaikki-tuotteet",
+        "rows": "2",
+        "desktop_grid": "4",
+        "mobile_grid": "2",
+        "show_view_all": true,
+        "button_label": "Kaikki Tuotteet",
+        "button_link": "shopify:\/\/collections\/kaikki-tuotteet",
+        "button_style": "btn--primary",
+        "slider_related_products": true,
+        "arrows": true,
+        "dots": true,
+        "autoplay": true,
+        "autoplayspeed": 5
+      }
+    },
+    "16595128814470f681": {
+      "type": "featured-icons",
+      "blocks": {
+        "16595128814be99d47-0": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Checkmark.png",
+            "title": "Alkuperäinen asentoa korjaava vaate",
+            "text": "<p>Alkuperäisiä Anodynen asentoa korjaavia vaatteita voi ostaa vain verkkokaupasta www.anodyne.fi tai hyväksytyiltä jälleenmyyjiltämme. Huomaathan, että markkinoilla on monia väärennettyjä ja huonoja tuotteita. Vain yhdenlaiset asentoa korjaavat vaatteet on sekä FDA-rekisteröinnin että MDR\/CE-merkinnän; ne ovat Anodynen tuotteet; ne ovat Anodynen tuotteet – ole siis erityisen tarkkana, kun teet ostoksia verkossa.<\/p>"
+          }
+        },
+        "16595128814be99d47-1": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Smile2_200px.png",
+            "title": "Asentoa korjaavia vaatteita 100% tyytyväisyystakuulla",
+            "text": "<p>Tarjoamme Anodynella aina 100% tyytyväisyystakuun, 30 päivän täyden palautusoikeuden sekä ilmaisen palautuksen ja vaihdon. Tämä tarkoittaa, että voit 30 päivää vapaasti sovittaa ja kokeilla tuotetta ja selvittää, vastaako se odotuksiasi. Tavoitteemme on, että sinun pitää olla 100% tyytyväinen – aivan kuten tavoitteemme on ollut pian yli 300 000 eurooppalaista asiakasta, jotka ovat ostaneet Anodyne®-tuotteen 5 viime vuoden aikana.<\/p>"
+          }
+        },
+        "16595128814be99d47-2": {
+          "type": "text_block",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Kinesio2_copy_200px.png",
+            "title": "Kinesioteipistä asentoa korjaaviin vaatteisiin",
+            "text": "<p><a href=\"\/collections\/kaikki-tuotteet\" title=\"Kaikki tuotteet\"><span style=\"text-decoration:underline\">Asentoa korjaavat vaatteet<\/span><\/a> aktivoivat selkälihaksia, hartioita ja lapaluita rentouttamatta ja lukitsematta lihaksiasi tai niveliäsi. <a href=\"\/collections\/posture-shirt\" title=\"Posture Shirt™\"><span style=\"text-decoration:underline\">Posture Shirt<\/span><\/a> takana oleva tekniikka on kinesioteipin innoittama – hoitomuoto, jota fysioterapeutit ja kiropraktikot käyttävätkäsittelemään kipuja ja jännityksiä niskassa, hartioissa ja selässä. Kinesioteippausta käyttävät myös monet ammattiurheilijat stimuloimaan tiettyjä lihasryhmiä ja parantamaan ryhtiä.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16595128814be99d47-0",
+        "16595128814be99d47-1",
+        "16595128814be99d47-2"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "",
+        "subtitle": "",
+        "section_style": "section-default",
+        "text_align": ""
+      }
+    },
+    "16595130833070b2f1": {
+      "type": "featured-video",
+      "blocks": {
+        "1659513083303253a7-0": {
+          "type": "video",
+          "settings": {
+            "video_cover_image": "shopify:\/\/shop_images\/cover_about.jpg",
+            "title": "",
+            "video_url": "https:\/\/www.youtube.com\/watch?v=iLhSIB5ajvg",
+            "animated_button": true
+          }
+        }
+      },
+      "block_order": [
+        "1659513083303253a7-0"
+      ],
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "full_width": false,
+        "title": "Keitä me olemme?",
+        "subtitle": "",
+        "section_style": "section-default"
+      }
+    },
+    "16595131862acfe816": {
+      "type": "featured-accordions",
+      "blocks": {
+        "1659513186ec7e9cae-0": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Patentoitu NeuroBand™-teknologia Anodynen asentoa korjaavissa vaatteissa",
+            "accordion__inner-title": "",
+            "accordion__description": "Anodynen asentoa korjaavat vaatteet on valmistettu ainutlaatuisesta spandexin, polyesterin, nailonin ja elastaanin yhdistelmästä, joka antaa kestäviä ja hengittäviä tuotteita. Ne säilyttävät joustavuuden käytössä ja tekevät vaatteista mukavia päällä. Suunnittelussa hyödynnetään patentoitua NeuroBand™-tekniikkaa, joka on kinesioteipin innoittama ja perustuu ihmisen fysiologian tutkimukseen. Vaatteet on suunniteltu heijastamaan lihasten supistumista ja joustavuutta ja siten edistämään oikeaa ryhtiä.",
+            "accordion__buttontext": "shop",
+            "accordion__LinkUrl": "shopify:\/\/collections\/posture-shirt"
+          }
+        },
+        "1659513186ec7e9cae-1": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Asentoa korjaavat vaatteet tarpeisiisi",
+            "accordion__inner-title": "",
+            "accordion__description": "Anodynen asentoa korjaavia vaatteita voivat käyttää kaikki. Myymme asentoa korjaavia t-paitoja, rintaliivejä ja liivejä, jotka on kaikki kehitetty auttamaan aktivoimaan lihaksia ja verenkiertoa sekä muistuttamaan siten kehoa omaksumaan paremman ryhdin. Anodynen asentoa korjaavia paitoja ja rintaliivejä voi käyttää milloin tahansa – urheilun aikana, töissä, ostoksilla, kävelylenkeillä, matkoilla, siivotessa tai muussa tekemisessä. Jotta saat eniten irti Anodynen asentoa korjaavista vaatteista, suosittelemme, että luet käyttöohjeet huolellisesti, jotta sinulla on oikeat edellytykset saavuttaa ihanteellinen vaikutus tuotteillamme.",
+            "accordion__buttontext": "shop",
+            "accordion__LinkUrl": "shopify:\/\/collections\/kaikki-tuotteet"
+          }
+        },
+        "3c3108af-7850-4cad-a838-88ed336c741f": {
+          "type": "Accordion",
+          "settings": {
+            "accordion_title": "Myös sinulle, jolla on vammoja",
+            "accordion__inner-title": "",
+            "accordion__description": "Jos kärsit vammasta tai sinulla on esim. diskusprolapsi, skolioosi, niveltulehdus tai vastaava, voit hyvin käyttää asentoa korjaavia vaatteita, mutta jos vaivaa ei ole vielä selvitetty, suosittelemme keskustelemaan alan ammattilaisen kanssa. Lisäksi on tärkeää, että valitset asentoa korjaavista vaatteista oikean koon, koska muuten et saa ihanteellista vaikutusta. Muista siksi tarkistaa kokotaulukko huolellisesti. Voit myös ottaa yhteyttä asiakaspalveluumme, joka auttaa mielellään vastaamaan kysymyksiisi tuotteistamme sekä löytämään oikean koon.",
+            "accordion__buttontext": "shop",
+            "accordion__LinkUrl": "shopify:\/\/collections\/selkatuki"
+          }
+        }
+      },
+      "block_order": [
+        "1659513186ec7e9cae-0",
+        "1659513186ec7e9cae-1",
+        "3c3108af-7850-4cad-a838-88ed336c741f"
+      ],
+      "settings": {
+        "title": "Asentoa korjaavat vaatteet",
+        "section_style": "section-blank"
+      }
+    },
+    "1659519187d1c8a097": {
+      "type": "newsletter",
+      "settings": {
+        "show_on_desktop": true,
+        "show_on_mobile": true,
+        "title": "Tilaa uutiskirjeemme",
+        "subtitle": "Tilaa uutiskirjeemme ja saat uusimmat tarjouksemme",
+        "section_style": "section-default",
+        "customer_tag": "newsletter"
+      }
+    }
+  },
+  "order": [
+    "16565958709e259b85",
+    "ebc62c8c-3c83-475f-a9c0-ca9af32926c6",
+    "1656942069989ae2c9",
+    "26b60e6d-b80c-4cac-9186-bc32afaf5241",
+    "1654180360d9664fc4",
+    "1657200190f72ca1c0",
+    "1659512569f1cf3047",
+    "1659512748326b5967",
+    "16595128814470f681",
+    "16595130833070b2f1",
+    "16595131862acfe816",
+    "1659519187d1c8a097"
+  ]
+}
